@@ -15,7 +15,8 @@ Tools & Technologies:
 	•	React ⚛️
 	•	TensorFlow (Basic) 🤖
 	•	Figma 🎨
-	•	StarUML 📐
+	•	Flutter 🐦
+ 
 
 🔍 What I Do
 	•	📊 Data Science & AI – Building machine learning models to analyze trends and enhance business insights.
