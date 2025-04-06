@@ -65,6 +65,10 @@ If you're building something exciting or just want to geek out on tech + busines
 **I'm always up for a conversation or collaboration.**
 
 > _“Code it. Design it. Launch it.” – My daily motto 🚀_
+
+![1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV](https://github.com/user-attachments/assets/2d0290bb-2d69-423b-b01c-27266e64b073)
+
+
 <!--
 **Sanjay16C/Sanjay16C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
