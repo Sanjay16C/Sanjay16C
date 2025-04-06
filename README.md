@@ -5,6 +5,11 @@
 I'm a **Tech Builder** and **Creative Problem Solver** passionate about turning ideas into impactful digital products.  
 I blend technology, business thinking, and design to create meaningful solutions.
 
+![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
+![React](https://img.shields.io/badge/frontend-React-blue)
+![FastAPI](https://img.shields.io/badge/backend-FastAPI-green)
+![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%92%96-blue)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 ---
 
 ## 🚀 What I Do
