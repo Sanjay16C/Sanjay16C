@@ -1,30 +1,70 @@
-Hi there! 👋
+<img width="908" alt="Building tech with purpose, driven by business and creativity" src="https://github.com/user-attachments/assets/b963b741-5fc2-4211-a7f2-c4960b2bd348" />
 
-I’m Sanjay, a Data Scientist and Business Analyst passionate about leveraging technology to drive innovation and impactful solutions. I specialize in data-driven decision-making, predictive modeling, and business intelligence.
+# 👋 Hey, I'm Sanjay!
 
-🚀 Skills & Technologies
+I'm a **Tech Builder** and **Creative Problem Solver** passionate about turning ideas into impactful digital products.  
+I blend technology, business thinking, and design to create meaningful solutions.
 
-Programming Languages:
-	•	Python 🐍
-	•	SQL 🛢️
-	•	C++ 💻
+---
 
-Tools & Technologies:
-	•	Git & GitHub 🌍
-	•	Firebase 🔥
-	•	React ⚛️
-	•	TensorFlow (Basic) 🤖
-	•	Figma 🎨
-	•	Flutter 🐦
- 
+## 🚀 What I Do
 
-🔍 What I Do
-	•	📊 Data Science & AI – Building machine learning models to analyze trends and enhance business insights.
-	•	🌐 Full-Stack Development – Creating scalable applications using React & Firebase.
-	•	🏗️ Business & Product Innovation – Bridging the gap between technology and business to drive growth.
+- ⚙️ **Build Real-World Products** – From backend APIs to intuitive frontends.
+- 📱 **Full-Stack Development** – React, Firebase, FastAPI, and beyond.
+- 💼 **Business + Tech Fusion** – I build with purpose, always thinking like a founder.
+- 🎨 **Canva Design** – Sleek, minimal, and brand-aligned visuals for products and presentations.
 
-Let’s collaborate and build something amazing! 🚀
+---
 
+## 🛠️ Skills & Technologies
+
+### 👨‍💻 Programming Languages
+- Python 🐍
+- SQL 🛢️
+- C++ 💻
+
+### 🧰 Tools & Technologies
+- Git & GitHub 🌍
+- Firebase 🔥
+- FastAPI (Basic) ⚡
+- React (Basic) ⚛️
+- Flutter (Basic) 🐦
+- TensorFlow (Basic) 🤖
+- Postman 📮
+- Zsh Terminal 🖥️
+- Canva 🎨
+
+### 💬 Soft Skills
+- Leadership 🧭
+- Communication 💬
+- Basic Team Management 🤝
+
+---
+
+## 🧭 Learning Timeline
+
+- 📌 **Currently Learning** – Data Structures & Algorithms (DSA)
+- 🧠 **Exploring** – System Design & scalable backend architecture
+- 🛠️ **Building** – CampConnect (Campus productivity & mentorship platform)
+- 💬 **Experimenting** – Smart search engines with LLM integration
+- 🎯 **Goal** – Build innovative tech that delivers real-world value
+
+---
+
+## 📍 Key Highlights
+
+- 🚀 **Tech Builder with a Business Mindset**
+- 🎨 **Full-Stack Developer & Canva Designer**
+- 📚 **Always Learning & Evolving**
+
+---
+
+## 🤝 Let’s Connect
+
+If you're building something exciting or just want to geek out on tech + business,  
+**I'm always up for a conversation or collaboration.**
+
+> _“Code it. Design it. Launch it.” – My daily motto 🚀_
 <!--
 **Sanjay16C/Sanjay16C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
