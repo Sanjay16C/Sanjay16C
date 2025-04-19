@@ -1,6 +1,6 @@
 <img width="908" alt="Building tech with purpose, driven by business and creativity" src="https://github.com/user-attachments/assets/b963b741-5fc2-4211-a7f2-c4960b2bd348" />
 
-# 👋 Hey, I'm Sanjay!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=B22222&vCenter=true&width=435&lines=Hey+there!+I'm+YourName;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 
 I'm a **Tech Builder** and **Creative Problem Solver** passionate about turning ideas into impactful digital products.  
 I blend technology, business thinking, and design to create meaningful solutions.
