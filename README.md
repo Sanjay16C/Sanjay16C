@@ -28,8 +28,9 @@ I blend technology, business thinking, and design to create meaningful solutions
 
 <!-- Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<Sanjay16C>&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjay16C&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
+
 
 <!-- Streak -->
 <p align="center">
@@ -38,8 +39,9 @@ I blend technology, business thinking, and design to create meaningful solutions
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<Sanjay16C>&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay16C&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 
 ---
 
