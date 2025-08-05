@@ -22,6 +22,39 @@ I blend technology, business thinking, and design to create meaningful solutions
 
 ---
 
+
+
+### 📊 GitHub Stats
+
+<!-- Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<!-- Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<your-username>&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🚀 Weekly Activity Tracker
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+> 📌 Powered by [WakaTime](https://wakatime.com)
+
+---
+
+
+
+
 ## 🛠️ Skills & Technologies
 
 ### 👨‍💻 Programming Languages
