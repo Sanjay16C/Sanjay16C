@@ -45,18 +45,6 @@ I blend technology, business thinking, and design to create meaningful solutions
 
 ---
 
-### 🚀 Weekly Activity Tracker
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-> 📌 Powered by [WakaTime](https://wakatime.com)
-
----
-
-
-
-
 ## 🛠️ Skills & Technologies
 
 ### 👨‍💻 Programming Languages
