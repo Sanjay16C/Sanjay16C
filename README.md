@@ -18,7 +18,7 @@ My brain stubbornly refuses to shut down, especially at 2 AM when I suddenly dec
 
 ---
 
-## 🧠 What I'm Into
+## What I'm Into
 
 I spend most of my time exploring:
 
@@ -29,16 +29,14 @@ I spend most of my time exploring:
 - how organizations and markets work,
 - and occasionally random scientific rabbit holes.
 
-Right now, I’m focused on becoming a strong backend engineer while still keeping the full-stack mindset.
-
 ---
 
-## ⚒️ Currently Building
+## Currently Building
 
-### 🚀 Orca CRM
+### Orca CRM
 A CRM platform I'm building for fun, learning, and experimentation.
 
-🔗 https://orca-crm.vercel.app/
+https://orca-crm.vercel.app/
 
 Currently built using the MERN stack.  
 Previously, I used to "vibe code" with things like React, FastAPI, Flutter, and whatever technology looked exciting at 3 AM.
@@ -47,16 +45,18 @@ Contributions, ideas, feedback, and random discussions are always welcome.
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 If you're building something exciting, exploring ambitious ideas,  
-or just want to geek out about tech, startups, systems, or the future —
+or just want to geek out about tech, startups, systems, or the future
 
 I'm always open to conversations and collaborations.
+
 ---
 
 Why Collaborate with me ?
 Because I have the coolest browser wallpaper
+
 <img width="3840" height="2160" alt="epic-knight-army-battle-medieval-fantasy-army-9-4k" src="https://github.com/user-attachments/assets/051f960e-c0a8-4d3e-87ac-e7eb21e925ee" />
 
 <!--
