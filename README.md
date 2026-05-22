@@ -2,9 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=25&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=Hey+there!+I'm+Sanjay;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 ---
 
-# Hey, I'm Sanjay 👋
-
-To whoever is reading this —  
+To whoever is reading this  
 I’ll be honest.
 
 I’m just a human made of flesh, water, and inadequate caffeine.  
@@ -49,34 +47,17 @@ Contributions, ideas, feedback, and random discussions are always welcome.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjay16C&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjay16C&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay16C&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 If you're building something exciting, exploring ambitious ideas,  
 or just want to geek out about tech, startups, systems, or the future —
 
 I'm always open to conversations and collaborations.
-
 ---
 
-<p align="center">
-  <img src="https://m.media-amazon.com/images/I/51ljV9dkSJS._AC_UF894,1000_QL80_.jpg" width="300" alt="Electron meme" />
-</p>
+Why Collaborate with me ?
+Because I have the coolest browser wallpaper
+<img width="3840" height="2160" alt="epic-knight-army-battle-medieval-fantasy-army-9-4k" src="https://github.com/user-attachments/assets/051f960e-c0a8-4d3e-87ac-e7eb21e925ee" />
 
 <!--
 **Sanjay16C/Sanjay16C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
